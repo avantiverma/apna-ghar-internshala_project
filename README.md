@@ -1,1 +1,2 @@
 # apna-ghar-internshala_project
+With the increasing reliance on digital solutions for simplifying everyday tasks, finding suitable Paying Guest (PG) accommodations remains a challenge due to scattered information and time-consuming processes. This project introduces Apna Ghar, a user-friendly web application designed to streamline the search for PG accommodations. By integrating a robust backend powered by PHP and MySQL with a responsive, dynamic frontend, the platform provides an efficient and engaging experience for users. 
